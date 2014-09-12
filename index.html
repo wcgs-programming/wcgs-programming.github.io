@@ -2,10 +2,40 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Programming Society @ WCGS</title>
+        <title>Programming @ WCGS</title>
         <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
     </head>
     <body>
-        <h1>Welcome to Programming Society at WCGS</h1>
+        <h1>> Programming </h1>
+        <div id="welcome">
+            <p>
+                Welcome to the WCGS Programming Society webpage. Programming takes place every Tuesday in IT1, after school.
+            </p>
+        </div>
+        <div id="showcase">
+            <a href="#showcase" onclick="expand('expand1')">
+                <h2 id="expand1status">+</h2><h2>Showcase</h2>
+                <p>
+                    See all the wonderful work that we've made so far at Programming Society.
+                </p>
+            </a>
+            <div id="expand1">
+                Sorry, there's nothing here yet!
+            </div>
+        </div>
+        <div id="resources">
+            <a href="#showcase" onclick="expand('expand2')">
+                <h2 id="expand2status">+</h2><h2>Resources</h2>
+                <p>
+                    Find the lessons we're using to teach the languages you're studying.
+                </p>
+            </a>
+            <div id="expand2">
+                <div>Python</div>
+                <div>Java</div>
+                <div>HTML</div>
+            </div>
+        </div>
     </body>
 </html>

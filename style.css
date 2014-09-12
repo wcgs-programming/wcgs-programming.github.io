@@ -2,4 +2,93 @@
     margin: 0;
     border: 0;
     padding: 0;
+    font-family: "Courier New", Courier, monospace;
+}
+
+body {
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto px;
+    padding: 15px;
+    background: #333333;
+}
+
+h1 {
+    text-align: center;
+    color: #aaaaaa;
+    font-size: 50px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #aaaaaa;
+    margin-bottom: 15px;
+}
+
+div {
+    padding: 8px;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+
+body > div > a > p,
+#expand1,
+#expand2 {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 2s linear;
+}
+
+#welcome {
+    background: #6b8fd8;
+}
+
+#showcase {
+    background: #9fdb2d;
+}
+
+#resources {
+    background: #cc509d;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+h2:first-child {
+    float: left;
+    margin-right: 10px;
+}
+
+#showcase:hover p,
+#resources:hover p {
+    max-height: 200px;
+}
+
+#expand1,
+#expand2 {
+    padding: 0;
+}
+
+.expand {
+    max-height: 500px !important;
+}
+
+#expand1 div, #expand2 div {
+    float: left;
+    width: calc(50% - 32px);
+    margin: 8px 8px 0;
+}
+
+#expand1 div:nth-child(3n),
+#expand2 div:nth-child(3n) {
+    background: #52ba44;
+}
+
+#expand1 div:nth-child(3n+1),
+#expand2 div:nth-child(3n+1) {
+    background: #594fdb;
+}
+
+#expand1 div:nth-child(3n+2),
+#expand2 div:nth-child(3n+2) {
+    background: #c49f24;
 }
