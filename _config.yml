@@ -1,9 +1,9 @@
 # Site settings
-title: Prawnsgame
-email: prawnsgame@gmail.com
+title: Programming @ WCGS
+email: sherd030@suttonlea.org
 description: "A site for all the resourses, as well as the results from the WCGS Programming Society"
 baseurl: "/"
-url: "http://prawnsgame.org.uk"
+url: "http://wcgs-programming.github.io/"
 
 # Build settings
 markdown: kramdown
