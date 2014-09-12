@@ -1,32 +1,36 @@
 ---
-#Title and Zone:
-title: Home
-zone: Prawnsgame
-
-#Path and Metadata
-folder:
-permalink: /
+permalink: 
 layout: default
-description: The home page of prawnsgame.org.uk, where you'll find completely original abstract strategy board games, such as the game of Prawns, Kalamala, and more!
+description: Welcome to the WCGS Programming Society webpage. Programming takes place every Tuesday in IT1, after school.
 published: true
-
-#Links
-link1name: Home
-link1path: /
-link2name: About
-link2path: /about/
-link3name: Blog
-link3path: /blog/
-link4name: Contact Us
-link4path: /contact/
 ---
 
-<h1>Welcome to Prawnsgame.org.uk!</h1>
-
-<p>We spent far too much time offline, and are now back with a new, improved, easily updateable site design. Yay. &#x263A;</p>
-
-<p>Over the last few weeks we have been adding lots of content - working tirelessly to get back to our previous state of a full documentation of the game <a href="/prawns/">Prawns</a>, and also adding some extra games we've made, such as the newly renamed <a href="/kalamala/">Kalamala</a>.</p>
-
-<p>We (the people behind this website) are a rough disorganisation of people who, amongst other things, like, or have liked, to design abstract strategy board games and then publish them here. Find out more about us at our <a href="/about/">About</a> page.</p>
-
-<p>Excitingly, we have started on a project to bring you a digital Kalamala experience. Our <a href="/kalamala/play/">Play</a> page will be updated with details as we make progress.</p>
+        <div id="welcome">
+            <p>
+                Welcome to the WCGS Programming Society webpage. Programming takes place every Tuesday in IT1, after school.
+            </p>
+        </div>
+        <div id="showcase">
+            <a href="#showcase" onclick="expand('expand1')">
+                <h2 id="expand1status">+</h2><h2>Showcase</h2>
+                <p>
+                    See all the wonderful work that we've made so far at Programming Society.
+                </p>
+            </a>
+            <div id="expand1">
+                Sorry, there's nothing here yet!
+            </div>
+        </div>
+        <div id="resources">
+            <a href="#showcase" onclick="expand('expand2')">
+                <h2 id="expand2status">+</h2><h2>Resources</h2>
+                <p>
+                    Find the lessons we're using to teach the languages you're studying.
+                </p>
+            </a>
+            <div id="expand2">
+                <div>Python</div>
+                <div>Java</div>
+                <div>HTML</div>
+            </div>
+        </div>
