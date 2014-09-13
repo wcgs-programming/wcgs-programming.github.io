@@ -22,7 +22,8 @@ h1 {
     margin-bottom: 15px;
 }
 
-div {
+div,
+body > p {
     padding: 8px;
     margin-bottom: 10px;
     overflow: auto;
@@ -100,4 +101,8 @@ body > p {
 h3 {
     padding: 8px;
     margin: 10px 0 0;
+}
+
+body > p {
+    width: calc(50% - 32px);
 }
