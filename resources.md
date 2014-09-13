@@ -7,5 +7,5 @@ published: true
 ---
 
 {% for post in site.posts %}
-[{{ post.title }}]({{ post.url }})
+{% if page.categories == "resources" %}[{{ post.title }}]({{ post.url }}){% endif %}
 {% endfor %}
