@@ -1,0 +1,16 @@
+---
+title: "Python"
+layout: post
+published: true
+categories: resources
+---
+
+### Resources:
+
+[Interactive Python Web Editor](http://repl.it/languages/Python/)
+
+[Mathematical Programming Puzzles](https://projecteuler.net/problems)
+
+### Lessons:
+
+[Lesson 1](https://docs.google.com/presentation/d/1wjU6-UxXz55QJY6szSPLjRAoPS5EUzb32wMcdiGegXM/edit?usp=sharing)

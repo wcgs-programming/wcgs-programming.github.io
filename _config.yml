@@ -7,5 +7,5 @@ url: "http://wcgs-programming.github.io/"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title/
 relative_permalinks: true
