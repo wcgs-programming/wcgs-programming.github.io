@@ -24,7 +24,7 @@ h1 {
 
 div,
 h3,
-pre {
+blockquote {
     padding: 8px;
     margin-bottom: 10px;
     overflow: auto;
@@ -44,13 +44,13 @@ body > div > a > p,
 
 div#showcase,
 h3:nth-child(2n),
-pre:nth-child(2n) {
+blockquote:nth-child(2n) {
     background: #9fdb2d;
 }
 
 div#resources,
 h3:nth-child(2n+1),
-pre:nth-child(2n+1) {
+blockquote:nth-child(2n+1) {
     background: #cc509d;
 }
 
