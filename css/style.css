@@ -40,11 +40,11 @@ body > div > a > p,
     background: #6b8fd8;
 }
 
-div#showcase {
+div#showcase, h3:nth-child(2n){
     background: #9fdb2d;
 }
 
-div#resources {
+div#resources, h3:nth-child(2n+1){
     background: #cc509d;
 }
 
