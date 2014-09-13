@@ -92,3 +92,8 @@ div#resources:hover p {
 #expand2 div:nth-child(3n+2) {
     background: #c49f24;
 }
+
+h3 {
+    padding: 8px;
+    margin: 10px 0 0
+}
