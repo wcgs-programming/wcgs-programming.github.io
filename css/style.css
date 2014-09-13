@@ -106,3 +106,8 @@ h3 {
     border-top: 20px solid #333333;
     overflow: auto;
 }
+
+body > p > a {
+    display: block;
+    height: 100%;
+}
