@@ -40,11 +40,13 @@ body > div > a > p,
     background: #6b8fd8;
 }
 
-div#showcase, h3:nth-child(2n){
+div#showcase,
+h3:nth-child(2n) {
     background: #9fdb2d;
 }
 
-div#resources, h3:nth-child(2n+1){
+div#resources,
+h3:nth-child(2n+1) {
     background: #cc509d;
 }
 
@@ -72,7 +74,9 @@ div#resources:hover p {
     max-height: 500px !important;
 }
 
-#expand1 div, #expand2 div {
+#expand1 div,
+#expand2 div,
+body > p {
     float: left;
     width: calc(50% - 32px);
     margin: 8px 8px 0;
