@@ -85,7 +85,7 @@ body > p {
 
 #expand1 div:nth-child(3n),
 #expand2 div:nth-child(3n),
-body > p:nth-child(3n) > a {
+body > p:nth-child(3n) {
     background: #52ba44;
 }
 
@@ -97,7 +97,7 @@ body > p:nth-child(3n+1) {
 
 #expand1 div:nth-child(3n+2),
 #expand2 div:nth-child(3n+2),
-body > p:nth-child(3n+2) > a {
+body > p:nth-child(3n+2) {
     background: #c49f24;
 }
 
