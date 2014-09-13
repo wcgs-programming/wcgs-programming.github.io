@@ -40,11 +40,11 @@ body > div > a > p,
     background: #6b8fd8;
 }
 
-#showcase {
+div#showcase {
     background: #9fdb2d;
 }
 
-#resources {
+div#resources {
     background: #cc509d;
 }
 
@@ -58,8 +58,8 @@ h2:first-child {
     margin-right: 10px;
 }
 
-#showcase:hover p,
-#resources:hover p {
+div#showcase:hover p,
+div#resources:hover p {
     max-height: 200px;
 }
 
