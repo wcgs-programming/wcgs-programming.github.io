@@ -23,7 +23,7 @@ h1 {
 }
 
 div,
-body > p {
+h3 {
     padding: 8px;
     margin-bottom: 10px;
     overflow: auto;
@@ -102,12 +102,16 @@ body > p:nth-child(3n+2) > a {
 }
 
 h3 {
-    padding: 8px;
+    margin-bottom: 0;
     border-top: 20px solid #333333;
+}
+
+body > p {
     overflow: auto;
 }
 
 body > p > a {
     display: block;
     height: 100%;
+    padding: 8px;
 }
