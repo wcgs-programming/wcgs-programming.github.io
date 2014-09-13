@@ -32,5 +32,10 @@ published: true
                 <div>Python</div>
                 <div>Java</div>
                 <div>HTML</div>
+                {% for post in site.posts %}
+                    {% if post.categories contains "resources" %}
+                        <a href="{{ post.url }}"><div>{{ post.title }}</div></a>
+                    {% endif %}
+                {% endfor %}
             </div>
         </div>
