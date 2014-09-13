@@ -80,7 +80,7 @@ div#resources:hover p {
 body > p {
     float: left;
     width: calc(50% - 32px);
-    margin: 8px 8px 0;
+    margin: 8px;
 }
 
 #expand1 div:nth-child(3n),
