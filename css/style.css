@@ -86,20 +86,20 @@ body > p {
     margin: 8px 8px 0;
 }
 
-#expand1 div:nth-child(3n),
-#expand2 div:nth-child(3n),
+#expand1 a:nth-child(3n) div,
+#expand2 a:nth-child(3n) div,
 body > p:nth-child(3n) {
     background: #52ba44;
 }
 
-#expand1 div:nth-child(3n+1),
-#expand2 div:nth-child(3n+1),
+#expand1 a:nth-child(3n+1) div,
+#expand2 a:nth-child(3n+1) div,
 body > p:nth-child(3n+1) {
     background: #594fdb;
 }
 
-#expand1 div:nth-child(3n+2),
-#expand2 div:nth-child(3n+2),
+#expand1 a:nth-child(3n+2) div,
+#expand2 a:nth-child(3n+2) div,
 body > p:nth-child(3n+2) {
     background: #c49f24;
 }
