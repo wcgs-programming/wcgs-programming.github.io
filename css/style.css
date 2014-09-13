@@ -104,10 +104,12 @@ body > p:nth-child(3n+2) > a {
 h3 {
     margin-bottom: 0;
     border-top: 20px solid #333333;
+    clear: both;
 }
 
 body > p {
     overflow: auto;
+    width: calc(50% - 16px);
 }
 
 body > p > a {
