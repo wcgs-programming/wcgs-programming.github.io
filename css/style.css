@@ -121,7 +121,7 @@ body > p > a {
     padding: 8px;
 }
 
-body a {
+body > a {
     diplay: block;
     float: right;
     color: #aaaaaa;
