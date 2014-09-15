@@ -121,7 +121,7 @@ body > p > a {
     padding: 8px;
 }
 
-body > a {
+body > a:not(:first-child) {
     diplay: block;
     float: right;
     color: #aaaaaa;
