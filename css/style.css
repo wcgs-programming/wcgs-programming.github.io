@@ -128,3 +128,8 @@ body > a:not(:first-child) {
     color: #aaaaaa;
     margin: 5;
 }
+
+#welcome a,
+blockquote a {
+    font-weight: bold;
+}
