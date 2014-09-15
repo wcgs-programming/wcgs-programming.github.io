@@ -124,6 +124,7 @@ body > p > a {
 body > a:not(:first-child) {
     diplay: block;
     float: right;
+    clear: left;
     color: #aaaaaa;
     margin: 5;
 }
