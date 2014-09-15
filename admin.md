@@ -10,6 +10,8 @@ published: true
 
 [Register of Attendance](https://docs.google.com/spreadsheets/d/1XZ9OCXKORAQY-t7sU06T6FA61piYG1AKWG8X1AGNjTM/edit?usp=sharing)
 
+[Programming Society Ads](https://docs.google.com/document/d/1d1bBJrZcv06IKb6GgCiA-YtOrl2HNov3kinyKdC8QRk/edit?usp=sharing)
+
 [Robots Parts Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AhiPBOOWeCl5dFZ4ajVkSVk2QmhvOWxhRGdsQUxweFE&usp=sharing)
 
 [Python Lesson Plan](https://docs.google.com/document/d/17kDsO1lEZAKdtYvN2XKSvQryCjCM9AL4VEImiRUbwng/edit?usp=sharing)
