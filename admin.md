@@ -8,6 +8,8 @@ published: true
 
 [Club Charter](https://docs.google.com/document/d/1EsfoirRjoDX-Rw2I0IxH_faN9tkFL9qcLAA--IHEAz8/edit?usp=sharing)
 
+[Intro to Programming](https://docs.google.com/presentation/d/1xMlJSJZvQoXb_KAl0_ULVKQ_bYpZ9ApL2oo45J7z6cg/edit?usp=sharing)
+
 [Programming Society Ads](https://docs.google.com/document/d/1d1bBJrZcv06IKb6GgCiA-YtOrl2HNov3kinyKdC8QRk/edit?usp=sharing)
 
 [Register of Attendance](https://docs.google.com/spreadsheets/d/1XZ9OCXKORAQY-t7sU06T6FA61piYG1AKWG8X1AGNjTM/edit?usp=sharing)
