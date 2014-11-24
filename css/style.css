@@ -30,6 +30,16 @@ blockquote {
     overflow: auto;
 }
 
+pre {
+    margin-top: -8px;
+}
+
+pre + div,
+pre + h3,
+pre + blockquote {
+    margin-top: 8px;
+}
+
 body > div > a > p,
 #expand1,
 #expand2 {
