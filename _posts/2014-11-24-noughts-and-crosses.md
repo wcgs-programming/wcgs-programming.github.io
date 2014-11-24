@@ -7,15 +7,16 @@ categories: future
 
 > For those of you who are learning (or want to learn) HTML and Javascript, Salih has planned to make a noughts-and-crosses game with you!
 
+> You can see what it will look like when it is finished [Here](/files/noughts-and-crosses.html).
+
 > Do you think you can manage it? Here's the code:
 
     <!DOCTYPE html>
-    <meta name="robots" content="noindex">
     <html>
     <head>
       <meta charset="utf-8">
-      <title>JS Bin</title>
-    <style id="jsbin-css">
+      <title>Noughts and Crosses</title>
+    <style>
     .x{
       background-image:url(" http://icongal.com/gallery/image/37201/cancel_exit_cross_close.png");
     }
@@ -44,7 +45,7 @@ categories: future
     <body>
     <div id="game">
     </div>
-    <script id="jsbin-javascript">
+    <script>
     var turns = 1;
     var Board = [[0,0,0],[0,0,0],[0,0,0]];
     function play(){
