@@ -32,12 +32,7 @@ blockquote {
 
 pre {
     margin-top: -8px;
-}
-
-pre + div,
-pre + h3,
-pre + blockquote {
-    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 body > div > a > p,
