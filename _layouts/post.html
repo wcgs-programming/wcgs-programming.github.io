@@ -7,7 +7,7 @@ layout: default
             {% elsif page.categories contains "future-projects" %}
                         <a href="/showcase/future-projects/">Back to all Future Projects</a>
             {% else %}
-                        <a href="/showcase/">Back to all {% for p in page.categories[1] | split:'-' %}{{ p | capitalize }}{% endfor %}'s work</a>
+                        <a href="/showcase/">Back to all {% assign n page.categories[1] | split:'-' %}{% for p in n %}{{ p | capitalize }}{% endfor %}'s work</a>
             {% endif %}
         {% endif %}
         {% if page.categories contains "resources" %}
