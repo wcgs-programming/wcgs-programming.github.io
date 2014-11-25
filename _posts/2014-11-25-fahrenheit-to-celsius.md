@@ -2,7 +2,7 @@
 title: "Fahrenheit to Celsius"
 layout: post
 published: true
-categories: showcase, bertie-aurucchio
+categories: showcase bertie-aurucchio
 ---
 
 > Bertie has written this short python script that lets you convert Fahrenheit temperatures to Celsius.
