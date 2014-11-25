@@ -7,5 +7,5 @@ published: true
 ---
 
 {% for post in site.posts %}
-{% if post.categories | size = 1 %}[{{ post.title }}{{ post.categories | size }}]({{ post.url }}){% endif %}
+{% if post.categories contains "showcase" and post.categories | size == 1 %}[{{ post.title }}{{ post.categories | size }}]({{ post.url }}){% endif %}
 {% endfor %}
