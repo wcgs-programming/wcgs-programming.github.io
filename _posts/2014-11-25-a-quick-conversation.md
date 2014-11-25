@@ -1,14 +1,12 @@
 ---
-title: "Fahrenheit to Celsius"
+title: "A Quick Conversation"
 layout: post
 published: true
 categories: showcase bertie-auricchio
 ---
 
 > A python program that lets you talk to the computer. The computer doesn't seem very interested though...
-<!--
-> You can see what it will look like when it is finished [Here](/files/noughts-and-crosses.html).
--->
+
 > The code behind the scenes:
 
     c = str(raw_input("Do you like me?: "))

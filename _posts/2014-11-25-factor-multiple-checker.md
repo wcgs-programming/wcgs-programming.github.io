@@ -6,9 +6,7 @@ categories: showcase bertie-auricchio
 ---
 
 > This short Python program by Bertie checks whether one number is a multiple of another.
-<!--
-> You can see what it will look like when it is finished [Here](/files/noughts-and-crosses.html).
--->
+
 > Take a look at the code:
 
     import time

@@ -6,9 +6,7 @@ categories: showcase bertie-auricchio
 ---
 
 > Bertie has written this short python script that lets you convert Fahrenheit temperatures to Celsius.
-<!--
-> You can see what it will look like when it is finished [Here](/files/noughts-and-crosses.html).
--->
+
 > Here's his code:
 
     f = int(raw_input("Enter Fahrenheit: "))

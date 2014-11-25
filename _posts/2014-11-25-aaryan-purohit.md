@@ -1,0 +1,14 @@
+---
+title: "Aaryan Purohit"
+layout: post
+published: true
+categories: showcase
+---
+
+> Aaryan is in Year 7 Bridges, and has been doing some Python coding in Computer Science class.
+
+> On Monday, Aaryan experimented with both Python and Java.
+
+{% for post in site.posts %}
+{% if post.categories contains "aaryan-purohit" %}[{{ post.title }}]({{ post.url }}){% endif %}
+{% endfor %}
