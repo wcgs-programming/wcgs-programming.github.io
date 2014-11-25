@@ -1,0 +1,14 @@
+---
+title: "Bertie Auricchio"
+layout: post
+published: true
+categories: showcase
+---
+
+> Bertie, in 8Br, comes to programming on most Mondays and Wednesdays.
+
+> He has worked though some of the python lessons, and completed some of the Python intro tasks, which you can see below.
+
+{% for post in site.posts %}
+{% if post.categories contains "bertie-auricchio" %}[{{ post.title }}]({{ post.url }}){% endif %}
+{% endfor %}
