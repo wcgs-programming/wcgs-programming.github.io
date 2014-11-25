@@ -3,11 +3,9 @@ layout: default
 ---
         {% if page.categories contains "showcase" %}
                         <a href="/showcase/">Back to full Showcase</a>
-        {% endif %}
-        {% if page.categories contains "resources" %}
+        {% elsif page.categories contains "resources" %}
                         <a href="/resources/">Back to all Resources</a>
-        {% endif %}
-        {% if page.categories contains "future" %}
+        {% elsif page.categories contains "future" %}
                         <a href="/showcase/future-projects/">Back to all Future Projects</a>
         {% endif %}
         <div id="welcome">
