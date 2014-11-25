@@ -2,7 +2,7 @@
 title: "Noughts & Crosses"
 layout: post
 published: true
-categories: future
+categories: showcase future-projects
 ---
 
 > For those of you who are learning (or want to learn) HTML and Javascript, Salih has planned to make a noughts-and-crosses game with you!

@@ -10,5 +10,5 @@ categories: showcase
 > These future projects are here in case you want to skip ahead a little:
 
 {% for post in site.posts %}
-{% if post.categories contains "future" %}[{{ post.title }}]({{ post.url }}){% endif %}
+{% if post.categories contains "future-projects" %}[{{ post.title }}]({{ post.url }}){% endif %}
 {% endfor %}
