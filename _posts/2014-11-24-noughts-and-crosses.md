@@ -9,8 +9,6 @@ categories: future
 
 > You can see what it will look like when it is finished [Here](/files/noughts-and-crosses.html).
 
-<iframe src="/files/noughts-and-crosses.html"></iframe>
-
 > Do you think you can manage it? Here's the code:
 
     <!DOCTYPE html>
