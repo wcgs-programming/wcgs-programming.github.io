@@ -2,7 +2,7 @@
 title: "Single Password Program"
 layout: post
 published: true
-categories: showcase aaryan-purohit
+categories: showcase aaryan
 ---
 
 > Only one person may enter this computer... and only if they know the correct password.
