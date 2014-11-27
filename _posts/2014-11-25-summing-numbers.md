@@ -2,7 +2,7 @@
 title: "Summing Numbers - Experiments"
 layout: post
 published: true
-categories: showcase aaryan-purohit
+categories: showcase aaryan
 ---
 
 > Aaryan learnt how variables and mathematical operators work in Java by experimenting - and trying to add up different values.
