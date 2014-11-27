@@ -2,7 +2,7 @@
 title: "A Quick Conversation"
 layout: post
 published: true
-categories: showcase bertie-auricchio
+categories: showcase bertie
 ---
 
 > A python program that lets you talk to the computer. The computer doesn't seem very interested though...
