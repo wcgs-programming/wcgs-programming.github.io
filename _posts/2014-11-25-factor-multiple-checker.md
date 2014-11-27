@@ -2,7 +2,7 @@
 title: "Factor/Multiple Checker"
 layout: post
 published: true
-categories: showcase bertie-auricchio
+categories: showcase bertie
 ---
 
 > This short Python program by Bertie checks whether one number is a multiple of another.
