@@ -15,7 +15,7 @@ categories: showcase vithurun
 
 <html>
 <head>
-<body bgcolor="yellow"><img src = "logo.png"     <body>
+<body bgcolor="yellow"><img src = "logo.png">    <body>
 
 <embed height="0" width="0" src="Waves.mp3">
 <link rel="shortcut icon" href="wcgs.png" type="image/png" />
