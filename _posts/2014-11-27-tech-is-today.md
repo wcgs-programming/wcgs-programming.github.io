@@ -5,7 +5,7 @@ published: true
 categories: showcase prethessh
 ---
 
-> Using his Python skills, Prethessh has drawn some rectangles.
+> Using his HTML skills, Prethessh has created a tech site.
 > You can view it [here](/files/showcase/Prethessh/tech-is-today.html).
 
 > This is the code Prethessh wrote to do it:
