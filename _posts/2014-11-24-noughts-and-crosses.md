@@ -7,7 +7,7 @@ categories: showcase future-projects
 
 > For those of you who are learning (or want to learn) HTML and Javascript, Salih has planned to make a noughts-and-crosses game with you!
 
-> You can see what it will look like when it is finished [Here](/files/noughts-and-crosses.html).
+> You can see what it will look like when it is finished [here](/files/noughts-and-crosses.html).
 
 > Do you think you can manage it? Here's the code:
 
