@@ -9,6 +9,7 @@ categories: showcase gobeeshan
 > You can download it [here](/files/showcase/Gobeeshan/wcgs.html).
 
 > This is the code Gobeeshan wrote to do it, and it links to a friend's online version too!:
+
 	<head>
 	<title>WCGS</title>
 	</head>
