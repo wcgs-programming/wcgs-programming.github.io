@@ -6,7 +6,7 @@ categories: showcase bertie
 ---
 
 > Another short Python program by Bertie, to find the factorial of a certain number.
-
+> You can download it [here](/files/showcase/Bertie/factorial-calculator.py).
 > Take a look at the code:
 
     while 1 == 1:

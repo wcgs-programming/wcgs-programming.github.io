@@ -6,7 +6,7 @@ categories: showcase bertie
 ---
 
 > Another short Python program by Bertie, to find the factorial of a certain number.
-
+> You can download it [here](/files/showcase/Bertie/prime-checker.py).
 > Take a look at the code:
 
     num=int(raw_input("What number do you want to test?"))
