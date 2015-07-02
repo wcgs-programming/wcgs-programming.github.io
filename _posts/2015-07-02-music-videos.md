@@ -9,7 +9,7 @@ categories: showcase jonah
 
 > He asks that you compare it to his more recent sites to see hom much he has improved.
 
-> You can see what it will look like when it is finished [here](/files/showcase/Jonah/Music%20Videos).
+> You can see a live version of the website [here](/files/showcase/Jonah/Music%20Videos).
 
 > There are lots of pages of HTML that went into this website. We've tried to give you a sense of all of them, though in the subpages the sections that have been repeated have been removed so that this post only shows the bits that are different. If you want the full source code, click on the link above to open the real page, then ask your browser to 'view source'.
 
