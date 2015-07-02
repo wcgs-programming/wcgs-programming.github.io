@@ -5,7 +5,7 @@ published: true
 categories: showcase dougal jonah
 ---
 
-> Here is Dougal's site concerning the illuminati. Remember that programming and making websites can be done just fo fun too, so take this with a not insignificant pinch of salt!
+> Here is [Dougal's({{ site.url }}showcase/dougal/) site, made with help from [Jonah]({{ site.url }}showcase/jonah/) concerning the illuminati. Remember that programming and making websites can be done just fo fun too, so take this with a not insignificant pinch of salt!
 
 > You can see a live version of the website [here](/files/showcase/Dougal/Illuminati).
 
