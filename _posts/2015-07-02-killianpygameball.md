@@ -6,7 +6,7 @@ categories: showcase killian
 ---
 
 > Using his Python skills and the pygame module, Killian has created a ball game with levels.
-> You can download it [here](/files/showcase/Killian/pygame-ball.zip). You will need to download pygame too though which you can find in resources [here](resources/python/).
+> You can download it [here](/files/showcase/Killian/pygame-ball.zip). You will need to download pygame too though which you can find in resources [here](/resources/python/).
 
 > You can see it below:
 
