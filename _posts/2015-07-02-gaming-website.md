@@ -13,6 +13,7 @@ categories: showcase vithurun
 
 > Home Page:
 
+<DOCTYPE! html>
 <html>
 <head>
 <body bgcolor="yellow"><img src = "logo.png">    <body>
