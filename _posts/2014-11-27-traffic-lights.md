@@ -7,6 +7,7 @@ categories: showcase thevian
 
 > Using his Python GUI skills, Thevian has drawn a picture of traffic Lights.
 > You can download it [here](/files/showcase/Thevian/traffic-lights.py).
+
 > This is the code Thevian wrote to do it:
 
     from Tkinter import *

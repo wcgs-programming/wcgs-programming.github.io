@@ -7,6 +7,7 @@ categories: showcase bertie
 
 > This short Python program by Bertie checks whether one number is a multiple of another.
 > You can download it [here](/files/showcase/Bertie/factor-multiple-checker.py).
+
 > Take a look at the code:
 
     import time

@@ -7,6 +7,7 @@ categories: showcase vithurun
 
 > A work-in-progress at the moment, this program talks to the user through a GUI (window with coloured text + buttons). It uses the skills that Vithurun is learning in Mr Joyce's CS classes at the moment.
 > You can download it [here](/files/showcase/Bertie/chatbot-with-gui.py).
+
 > Take a look at the code:
 
     import sys, Tkinter

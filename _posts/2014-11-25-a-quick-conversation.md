@@ -7,6 +7,7 @@ categories: showcase bertie
 
 > A python program that lets you talk to the computer. The computer doesn't seem very interested though...
 > You can download it [here](/files/showcase/Bertie/a-quick-conversation.py).
+
 > The code behind the scenes:
 
     c = str(raw_input("Do you like me?: "))
