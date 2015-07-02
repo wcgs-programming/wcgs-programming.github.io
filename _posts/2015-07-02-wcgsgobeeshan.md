@@ -39,7 +39,7 @@ categories: showcase gobeeshan
 	<head>
 	<title>body styling</title>
 	<style type="text/css">
-	body {background: url(https://pbs.twimg.com/profile_images/458973468013252608/06vArqx-.jpeg)}
+	body {background: url(https://wcgssport.files.wordpress.com/2011/07/webshieldpng.png)}
 	</style>
 	</head>
 
