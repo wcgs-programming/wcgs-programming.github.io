@@ -9,6 +9,7 @@ categories: showcase mathushun
 > You can download it [here](/files/showcase/Mathushun/changing-traffic-lights.py).
 
 > This is the code Mathushun wrote to do it:
+
 	from Tkinter import*
 	import Tkinter as tk
 	import sys, Tkinter
