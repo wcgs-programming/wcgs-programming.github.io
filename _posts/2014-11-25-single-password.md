@@ -7,6 +7,7 @@ categories: showcase aaryan
 
 > Only one person may enter this computer... and only if they know the correct password.
 > You can download it [here](/files/showcase/Aaryan/single-password.py).
+
 > If you look carefully at the code, you might be able to guess what the password is!
 
     import time
